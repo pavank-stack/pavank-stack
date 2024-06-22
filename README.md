@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavank-stack
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning GITHUB
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... AI tech
 - 📫 How to reach me ...pavandevo23@gmail.com
 - 😄 Pronouns: ...Pavan (him)
 - ⚡ Fun fact: ... Learning is never Ending
